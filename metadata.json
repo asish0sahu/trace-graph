@@ -1,0 +1,6 @@
+{
+  "name": "TraceGraph - CognoDB Graph Intelligence",
+  "description": "Interactive graph intelligence platform backed by CognoDB (openCypher over Bolt protocol) for beneficial ownership, sanction evasion blast radius, and financial fraud ring detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
